@@ -1,0 +1,46 @@
+
+
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.menu{
+ background-image: url(./imagenes/viñedo.jpg);
+
+}
+
+.container-fluid{
+
+  background-image:url(./imagenes/vineyard-g458d85615_1280.jpg);
+  
+  
+  
+
+}
+.navbar-toggler-icon{
+
+  background-color: rgb(94, 10, 88);
+  
+}
+.navbar-brand{
+
+  font-family: fantasy;
+  font-size: 50px;
+}
+.nav-item{
+ 
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+.footer{
+
+background-color: rgb(43, 43, 43);
+
+}
